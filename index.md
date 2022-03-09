@@ -3,9 +3,9 @@ site: sandpaper::sandpaper_site
 ---
 :::::: prereq
 
-Before this lesson:
-- know what an octo is
-- be legendary
+Before this lesson:  
+- know what an octo is  
+- be legendary  
 
 ::::::::
 
